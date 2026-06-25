@@ -1,0 +1,4 @@
+Metode,Jumlah Cluster,Silhouette Score,Davies-Bouldin Index
+K-Means,4,0.3371,1.0101
+Hierarchical Clustering,4,0.2419,1.12
+DBSCAN,3,0.171,1.6983
